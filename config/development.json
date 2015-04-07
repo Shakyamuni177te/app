@@ -2,7 +2,7 @@
   "protocol": "http",
   "host": "localhost",
   "privatePort": 3000,
-  "publicPort": 3000,
+  "publicPort": 80,
   "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
   "cors domains": "",
   "signin url": "",
