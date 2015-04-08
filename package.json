@@ -106,7 +106,7 @@
     "node": "0.10.x"
   },
   "scripts": {
-    "postinstall": "node ./bin/dos-install && node ./bin/dos-config && node ./bin/dos-build",
+    "postinstall": "node --harmony ./bin/dos-install && node --harmony ./bin/dos-config && node --harmony ./bin/dos-build",
     "start": "node index.js",
     "clean": "rimraf node_modules && rimraf components && rimraf public"
   }
