@@ -10,7 +10,7 @@ ifndef NODE_ENV
   NODE_ENV="development"
 endif
 
-run: packages
+run:
 	@echo "Starting application..."
 	@NODE_PATH=. DEBUG=$(DEBUG) node index.js
 
