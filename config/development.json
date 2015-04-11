@@ -3,7 +3,7 @@
   "host": "democracyos.uk",
   "privatePort": 80,
   "publicPort": 443,
-  "mongoUrl": "mongodb://localhost/DemocracyOS-dev-demo",
+  "mongoUrl": "mongodb://localhost/DemocracyOS-dev-demo
   "cors domains": "",
   "signin url": "",
   "signup url": "",
@@ -34,7 +34,7 @@
   "auth": {
     "basic": {
       "username": "this",
-      "password": "thisandthat"
+      "password": "thisanndthat"
     }
   },
   "socialshare" : {
